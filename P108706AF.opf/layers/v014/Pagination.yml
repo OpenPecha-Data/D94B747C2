@@ -1,20 +1,20 @@
-id: 4f42f41c2e40436a9cb398f0dbe245e1
+id: 9f8e915da5404da484ec6e33a625b47c
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  ebb7829f345042a59f28b651ffbbee62:
+  045e6f2f7ed24630b8e5261211e1cf5b:
     imgnum: 1066
     reference: ''
     span:
       start: 0
       end: 657
-    note_ref: 206f1d72a4c94080878d5e3110f90ce1
-  206f1d72a4c94080878d5e3110f90ce1:
+    note_ref: e3d488ab8ce445dbbde85361d228d1fb
+  e3d488ab8ce445dbbde85361d228d1fb:
     imgnum: 1067
     reference: ''
     span:
       start: 660
-      end: 1362
+      end: 1353
 local_ids:
-  ebb7829f345042a59f28b651ffbbee62: 200000
-  206f1d72a4c94080878d5e3110f90ce1: 200001
+  045e6f2f7ed24630b8e5261211e1cf5b: 200000
+  e3d488ab8ce445dbbde85361d228d1fb: 200001
